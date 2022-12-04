@@ -4,9 +4,9 @@ Currently, I'm looking for working with back-end development.
 <br>
 <br>
 ### About me:
-- 💼 1+ years of experience in front-end development
-- 👨‍💻Currently studying back-end development with Java
-- 🎓Information Systems undergraduate at Mackenzie (6th semester)
+- 💼 1+ years of professional experience in front-end development
+- 👨‍💻 Currently studying back-end development with Java
+- 🎓 Information Systems undergraduate at Mackenzie (6th semester)
 
 <br>
 
@@ -27,7 +27,7 @@ These are the main technologies I've been working with or studying
 <br>
 
 ### Contact:
-Here are the ways you can reach me out:
+Here are the ways you can reach out to me:
 <p float="left">
   <a href="https://www.linkedin.com/in/thiagosmarques" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:thiagodsmarques@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
