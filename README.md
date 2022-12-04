@@ -1,10 +1,10 @@
 ## Hey there! I'm Thiago 👋
-I'm software developer with experience in both back-end and front-end development.  
+I'm a software developer with experience in both back-end and front-end development.  
 Currently, I'm looking for working with back-end development.
 <br>
 <br>
 ### About me:
-- 💼 1+ years of experience as in front-end development
+- 💼 1+ years of experience in front-end development
 - 👨‍💻Currently studying back-end development with Java
 - 🎓Information Systems undergraduate at Mackenzie (6th semester)
 
