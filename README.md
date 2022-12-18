@@ -1,7 +1,7 @@
 ## Hey there! I'm Thiago 👋
 I'm a software developer with experience in both back-end and front-end development.  
-
 <br>
+
 ### About me:
 - 💼 1+ years of professional experience in front-end development
 - 👨‍💻 Currently studying back-end development with Java
