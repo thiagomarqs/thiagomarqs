@@ -12,6 +12,8 @@ I'm a software developer with experience in both back-end and front-end developm
 ### Technologies:
 These are the main technologies I've been working with or studying
 <p float="left">
+  <img width="60px" style="margin-left: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width="60px" style="margin-left: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img width="60px" style="margin-left: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img width="60px" style="margin-left: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img width="60px" style="margin-left: 15px" src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" />
