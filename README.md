@@ -4,7 +4,6 @@ I'm a software developer with experience in both back-end and front-end developm
 
 ### About me:
 - 💼 1+ years of professional experience in front-end development
-- 👨‍💻 Currently studying back-end development with Java
 - 🎓 Information Systems undergraduate at Mackenzie (last year)
 
 <br>
