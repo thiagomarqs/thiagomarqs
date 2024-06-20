@@ -3,26 +3,23 @@ I'm a software developer with experience in both back-end and front-end developm
 <br>
 
 ### About me:
-- 💼 1+ years of professional experience in front-end development
-- 🎓 Information Systems undergraduate at Mackenzie (last year)
+- ✨ 2+ years of professional experience in software development
+- 💼 Currently working at Minsait
+- 🎓 Graduated in Information Systems at Mackenzie Presbyterian University
 
 <br>
 
 ### Technologies:
-These are the main technologies I've been working with or studying
+These are the main technologies I've worked with or studied
 <p float="left">
-  <img width="60px" style="margin-left: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width="60px" style="margin-left: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img width="60px" style="margin-left: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img width="60px" style="margin-left: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img width="60px" style="margin-left: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img width="60px" style="margin-left: 15px" src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" />
-  <img width="80px" style="margin-left: 15px" src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png"/>
-  <img width="80px" style="margin-left: 15px" src="https://junit.org/junit4/images/junit5-banner.png"/>
-  <img width="60px" style="margin-left: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />        
-  <img width="60px" style="margin-left: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img width="60px" style="margin-left: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img width="60px" style="margin-left: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img width="60px" style="margin-left: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width="60px" style="margin-left: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img width="60px" style="margin-left: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img width="60px" style="margin-left: 20px" src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" />
+  <img width="80px" style="margin-left: 20px" src="https://junit.org/junit4/images/junit5-banner.png"/>
+  <img width="60px" style="margin-left: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img width="60px" style="margin-left: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img width="60px" style="margin-left: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
 </p>
 
 <br>
