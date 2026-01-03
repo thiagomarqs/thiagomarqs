@@ -28,9 +28,3 @@ These are the main technologies I've worked with
   <a href="https://www.linkedin.com/in/thiagosmarques" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 <br>
-
-### Stats:
-<p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomarqs&layout=compact" />
-  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=thiagomarqs" />
-</p>
